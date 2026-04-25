@@ -1,26 +1,5 @@
- 
+Zeralyth is a 2D action-adventure survival game set in a collapsing world fractured by unknown forces. Reality has splintered into unstable regions filled with hostile creatures, shifting terrain, and the remnants of a forgotten civilization.
 
+Explore dangerous zones, complete missions, and gather resources to upgrade your gear and abilities. As you push deeper, the world becomes more unpredictable—introducing stronger enemies, evolving environments, and hidden secrets waiting to be uncovered.
 
-> Open this page at [https://bandit8238.github.io/zeralyth/](https://bandit8238.github.io/zeralyth/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/bandit8238/zeralyth** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/bandit8238/zeralyth** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+Survive the chaos, uncover the origin of the fractures, and fight to reclaim what remains before Zeralyth is lost forever.
